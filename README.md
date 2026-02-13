@@ -1,6 +1,6 @@
 #BIENVENIDO
 
-![](./images/logo31.jpg)
+![](./images/logo_portada.jpeg)
 
 #Tecnologias
 
