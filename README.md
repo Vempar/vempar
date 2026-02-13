@@ -1,4 +1,6 @@
 #BIENVENIDO
 
-![](./Images/logo31.jpg)
+![](./images/logo31.jpg)
+
+
 
